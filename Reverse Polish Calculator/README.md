@@ -1,5 +1,7 @@
 # This program explores functions and stacks using the C programming langugage
 
+**FILES INCLUDED:** ReversePolishCalculator.c *(contains main())* & RPC_header.h *(contains functions definition)*
+
 ### To compile and run
 
 To **compile**: ```gcc -o calculator ReversePolishCalculator.c```
