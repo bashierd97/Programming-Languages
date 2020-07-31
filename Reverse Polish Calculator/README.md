@@ -4,7 +4,7 @@
 
 To **compile**: ```gcc -o calculator ReversePolishCalculator.c```
 
-To **run**: ```./calculator (your numbers here followed by operations)
+To **run**: ```./calculator (your numbers here followed by operations) ```
 EX: ```./calculator 5 4 2 + x``` will result in 30.
 
 ### The program shall read in a line of input and then perform the calculation specified. The application will process reverse polish notation on postive integers. 
