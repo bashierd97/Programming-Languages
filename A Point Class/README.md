@@ -16,5 +16,5 @@ The point object supports logical operations in source code, so one may compare 
 
 ### Running the Program
 
-To compile ```g++ -o distance pointMain.cpp```
+To compile ```g++ -o distance pointMain.cpp``` <br \>
 To execute ```.\distance.exe```
